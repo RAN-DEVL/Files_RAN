@@ -58,19 +58,19 @@ end
 end
 if text == 'تفعيل all' and CoSu(msg) then   
 if database:get(bot_id..'Cick:all'..msg.chat_id_) then
-Text = ' *𖡺︙تم تفعيل امر @all*'
+Text = ' *◜#ُِ︙تم تفعيل امر @all*'
 database:del(bot_id..'Cick:all'..msg.chat_id_)  
 else
-Text = ' *𖡺︙بالتاكيد تم تفعيل امر @all*'
+Text = ' *◜#ُِ︙بالتاكيد تم تفعيل امر @all*'
 end
 send(msg.chat_id_, msg.id_,Text) 
 end
 if text == 'تعطيل all' and CoSu(msg) then  
 if not database:get(bot_id..'Cick:all'..msg.chat_id_) then
 database:set(bot_id..'Cick:all'..msg.chat_id_,true)  
-Text = '\n *𖡺︙تم تعطيل امر @all*'
+Text = '\n *◜#ُِ︙تم تعطيل امر @all*'
 else
-Text = '\n *𖡺︙بالتاكيد تم تعطيل امر @all*'
+Text = '\n *◜#ُِ︙بالتاكيد تم تعطيل امر @all*'
 end
 send(msg.chat_id_, msg.id_,Text) 
 end

@@ -22,7 +22,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -77,7 +77,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -137,7 +137,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -175,7 +175,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -225,7 +225,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -276,7 +276,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -347,7 +347,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -405,7 +405,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
@@ -439,7 +439,7 @@ local textchuser = database:get(bot_id..'text:ch:user')
 if textchuser then
 send(msg.chat_id_, msg.id_,'['..textchuser..']')
 else
-send(msg.chat_id_, msg.id_,'  *𖡺︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*𖡺︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
+send(msg.chat_id_, msg.id_,'  *◜#ُِ︙عذࢪا عليڪ الاشتࢪاڪ في قناه البوت* \n*◜#ُِ︙اشتࢪڪ هنا عمࢪي* ['..database:get(bot_id..'add:ch:username')..']')
 end
 return false
 end
